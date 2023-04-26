@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to my profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielll04&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielll04" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielll04&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielll04" /> </p>
 
 <p>I'am a student on Software Engineering and graduated as technician in Analysis and Systems Development looking for oportunities!</p>
 
