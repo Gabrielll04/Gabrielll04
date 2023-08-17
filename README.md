@@ -1,5 +1,4 @@
 # Gabriel G. Carneiro <img src="https://komarev.com/ghpvc/?username=gabrielll04&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielll04" />
-<hr />
 
  - Congratuated on a technician course of System Analysis and Development and student of Multiplatform Software Development in <a href="http://www.fatecsp.br/">Faculdade de Tecnologia</a>.
 
