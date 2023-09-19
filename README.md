@@ -5,4 +5,4 @@
  - I'm interested in NixOS, Machine Learning and Functional Programming. Currently studying Nix (OS and lang), Linux and what my faculty obliges me to learn.
 
    
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielll04&show_icons=true&locale=en" alt="gabrielll04" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
