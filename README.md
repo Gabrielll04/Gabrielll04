@@ -10,4 +10,4 @@
  
  - Currently studying Nix (OS and lang), Haskell,, Japanese, and what my faculty obliges me to learn.
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
