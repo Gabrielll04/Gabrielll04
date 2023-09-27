@@ -6,7 +6,7 @@
 
  - Congratuated on a technician course of System Analysis and Development and student of Multiplatform Software Development in <a href="http://www.fatecsp.br/">Faculdade de Tecnologia</a>.
    
- - I'm interested in NixOS, Machine Learning and Functional Programming.
+ - I'm interested in Nix, Machine Learning, Functional Programming, Lisguistics, Math and Traditional Logic.
  
  - Currently studying Nix (OS and lang), Haskell,, Japanese, and what my faculty obliges me to learn.
    
