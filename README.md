@@ -8,6 +8,6 @@
    
  - I'm interested in Nix, Machine Learning, Functional Programming, Lisguistics, Math and Traditional Logic.
  
- - Currently studying Nixos, Haskell, Agda, math, and what my college obliges me to learn.
+ - Currently studying Nixos and what my college obliges me to learn.
    
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
