@@ -8,6 +8,6 @@
    
  - I'm interested in Nix, Functional Programming and Programming Languages Theory.
  
- - Currently studying Nixos, low-code, and what my college obliges me to learn.
+ - Currently studying NixOS, C++, and what my college obliges me to learn.
    
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
