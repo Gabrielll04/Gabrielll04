@@ -10,4 +10,6 @@
  
  - Currently studying NixOS, C++, and what my college obliges me to learn.
    
+ - Most of my projects are private!
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielll04&layout=compact&hide=HTML"/>
