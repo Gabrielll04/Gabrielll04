@@ -8,7 +8,7 @@
    
  - I'm interested in Nix, Functional Programming and Programming Languages Theory.
  
- - Currently studying NixOS, C++, and what my college obliges me to learn.
+ - Currently studying NixOS, and what my college obliges me to learn.
    
  - Most of my projects are private!
 
